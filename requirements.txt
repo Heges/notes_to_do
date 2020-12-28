@@ -1,0 +1,11 @@
+asgiref==3.3.1
+data==0.4
+decorator==4.4.2
+Django==3.1.4
+djangorestframework==3.12.2
+funcsigs==1.0.2
+pytz==2020.4
+six==1.15.0
+sqlparse==0.4.1
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==4.4.0
